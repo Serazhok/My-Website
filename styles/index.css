@@ -113,11 +113,12 @@ ul {
     font-weight: lighter;
     font-size: x-large;
     display: block;
-    text-decoration: underline;
+    
 }
 
 .black {
     color:black;
+    font-size: 40px;
 }
 
 /* Footer STYLES*/
