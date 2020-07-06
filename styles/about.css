@@ -10,6 +10,7 @@ width: 40%;
     max-width: 100%;
     min-height: 100%;
     object-fit: cover;
+    border-radius: 1px 30px 30px 1px;
 }
 
 .info-wrapper {
@@ -31,6 +32,7 @@ width: 40%;
 .info-description {
     color:darkgrey;
     margin-bottom: 20px;
+    font-size: 22px;
 }
 
 .info {
